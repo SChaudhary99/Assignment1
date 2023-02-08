@@ -16,7 +16,7 @@ public class Ex5 {
             input= scanner.nextInt();
             totalSum = input + totalSum;
         }
-        System.out.print("Total sum of entered numbers is: "+totalSum);
+        System.out.print("Total sum of all entered numbers is: "+totalSum);
 
     }
 }
