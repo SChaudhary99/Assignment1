@@ -5,7 +5,7 @@ public class Ex1 {
 
         while (x<10){
             y= y + ++x;
-
+        System.out.print("-------------------");
 
         }
         System.out.print("The total sum of first 10 Natural number is: ");
